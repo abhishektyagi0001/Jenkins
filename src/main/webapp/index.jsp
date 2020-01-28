@@ -4,15 +4,15 @@
 </head>
 	<style>
 		body{
-		backgroung-color: light-grey;
+		background-color: light-grey;
 		}
 		header {
-		backgroung-color: black;
+		background-color: black;
 		}
 	</style>
 	<body>
 		<div class = "header">
-	<h1 style="test-color:white;"><center>Hello World!</center></h1>
+	<h1 style="text-color:white;"><center>Welcome to Jenkins!!!</center></h1>
 		</div>
 	<p><center>
 		It is now
