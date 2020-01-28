@@ -4,12 +4,13 @@
 </head>
 <body>
 	<h1><center>Hello World!</center></h1>
-	<p>
+	<p><center>
 		It is now
-		<%= new java.util.Date() %></p>
-	<p>
+		<%= new java.util.Date() %>
+		</center></p>
+	<p><center>
 		You are coming from 
-		<%= request.getRemoteAddr()  %></p>
+		<%= request.getRemoteAddr()  %></center></p>
 
 	<p><a href='./page1.jsp'>Home</a></p>
 	<p><a href='./page2.jsp'>About</a></p>
