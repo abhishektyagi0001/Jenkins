@@ -2,8 +2,18 @@
 <head>
 <title>Hello World!</title>
 </head>
-<body>
-	<h1><center>Hello World!</center></h1>
+	<style>
+		body{
+		backgroung-color: light-grey;
+		}
+		header {
+		backgroung-color: black;
+		}
+	</style>
+	<body>
+		<div class = "header">
+	<h1 style="test-color:white;"><center>Hello World!</center></h1>
+		</div>
 	<p><center>
 		It is now
 		<%= new java.util.Date() %>
