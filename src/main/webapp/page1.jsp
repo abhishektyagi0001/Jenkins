@@ -1,9 +1,10 @@
 <html>
 <head>
-<title>Hello - Page 1</title>
+<title>Page 1</title>
 </head>
 <body>
-	<h1>Page 1</h1>
+	<h1><center>This is Page 1</center></h1>
 	<p>
-		Ceci est le contenu de la page 1
+		jenkins pipeline
+	</p>
 </body>
