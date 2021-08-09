@@ -1,3 +1,2 @@
-FROM centos:latest
+FROM nginx:latest
 MAINTAINER abhishek
-EXPOSE 80
