@@ -1,7 +1,7 @@
 # Simple eComme 
 
 It is a simple PHP & MySQL application that I made as a college project. Hope you like it & learn something from it! added
- 
+ added few commments
 ---
 
 ### Features
