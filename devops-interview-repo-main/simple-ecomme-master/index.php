@@ -13,7 +13,7 @@ include 'includes/nav.php';
             <img src="img/gallery_perform.png" alt="...">
             <div class="carousel-caption">
               <h4>The new MacBook Air</h4>
-              All the power blah testing auto build process..
+              All the power blah abhishek and ashwin testing
             </div>
           </div>
           <div class="item" style="">
